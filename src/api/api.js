@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseUrl = 'http://localhost:5000/api'; 
+const baseUrl = 'https://growth-backend-test-4i8y.onrender.com/api'; 
 
 
 // Function to make the API call
